@@ -1,11 +1,8 @@
-
 import React from "react";
 import { Button } from "@/components/ui/button";
 import { ArrowDown } from "lucide-react";
-
 const HeroSection = () => {
-  return (
-    <section className="pt-28 pb-20 md:pt-36 md:pb-32 px-6 hero-pattern relative">
+  return <section className="pt-28 pb-20 md:pt-36 md:pb-32 px-6 hero-pattern relative">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 md:space-y-8">
@@ -25,29 +22,17 @@ const HeroSection = () => {
             </div>
           </div>
           <div className="relative h-80 md:h-auto">
-            <img 
-              src="https://images.unsplash.com/photo-1482938289607-e9573fc25ebb" 
-              alt="Excavator at work" 
-              className="rounded-lg shadow-lg object-cover w-full h-full"
-            />
-            <div className="absolute -bottom-5 -left-5 bg-emmell-orange text-white p-4 rounded shadow-lg hidden md:block">
-              <p className="font-bold text-xl">25+</p>
-              <p className="text-sm">Years Experience</p>
-            </div>
+            <img src="https://images.unsplash.com/photo-1482938289607-e9573fc25ebb" alt="Excavator at work" className="rounded-lg shadow-lg object-cover w-full h-full" />
+            
           </div>
         </div>
         <div className="flex justify-center mt-16 md:mt-24">
-          <a 
-            href="#about" 
-            className="flex flex-col items-center text-emmell-navy hover:text-emmell-orange transition-colors"
-          >
+          <a href="#about" className="flex flex-col items-center text-emmell-navy hover:text-emmell-orange transition-colors">
             <span className="mb-2">Learn More</span>
             <ArrowDown className="animate-bounce" />
           </a>
         </div>
       </div>
-    </section>
-  );
+    </section>;
 };
-
 export default HeroSection;
