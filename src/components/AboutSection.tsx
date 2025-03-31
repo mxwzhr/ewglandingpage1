@@ -32,12 +32,7 @@ const AboutSection = () => {
               We Are Your Trusted Groundwork Partner
             </h3>
             <p className="text-gray-600">Emmell Ground Worx provides top-quality excavation and groundwork services for the area of Wilkes County and surrounding communities. Our team brings expertise and dedication to every project, no matter the size or complexity.</p>
-            <p className="text-gray-600">
-              From residential to commercial projects, we take pride in our precision, 
-              attention to detail, and commitment to exceeding client expectations. 
-              Our state-of-the-art equipment and skilled operators ensure efficient and 
-              cost-effective solutions for all your groundwork needs.
-            </p>
+            <p className="text-gray-600">We take pride in our precision, attention to detail, and commitment to exceeding client expectations. Our skilled operators ensure efficient and cost-effective solutions for all your groundwork needs.</p>
           </div>
         </div>
 
