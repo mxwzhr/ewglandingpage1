@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,6 +62,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Custom colors based on the logo
+				emmell: {
+					navy: '#0A1B33',
+					orange: '#F78E28',
+					yellow: '#FFC624',
+					skyblue: '#8AD4F3',
+					black: '#10151E'
 				}
 			},
 			borderRadius: {
