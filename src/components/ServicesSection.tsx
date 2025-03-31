@@ -1,4 +1,3 @@
-
 import React from "react";
 
 const ServicesSection = () => {
@@ -11,7 +10,7 @@ const ServicesSection = () => {
     {
       title: "Driveway Repair",
       description: "Expert restoration and maintenance of residential and commercial driveways.",
-      image: "https://images.unsplash.com/photo-1433086966358-54859d0ed716"
+      image: "https://roadrunnerblade.com/wp-content/uploads/2021/06/skid-steer-grader-in-use-1080x500.jpg"
     },
     {
       title: "Land Clearing",
