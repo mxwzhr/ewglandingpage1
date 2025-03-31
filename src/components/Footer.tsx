@@ -1,4 +1,3 @@
-
 import React from "react";
 
 const Footer = () => {
@@ -9,11 +8,13 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <img 
-              src="/lovable-uploads/12759a3e-6c88-4260-a4a4-59bcbfcaad8b.png" 
-              alt="Emmell Ground Worx Logo" 
-              className="h-16 mb-4" 
-            />
+            <div className="bg-white p-2 inline-block rounded">
+              <img 
+                src="/lovable-uploads/12759a3e-6c88-4260-a4a4-59bcbfcaad8b.png" 
+                alt="Emmell Ground Worx Logo" 
+                className="h-16" 
+              />
+            </div>
             <p className="text-gray-300 mt-4 max-w-xs">
               Professional excavation and groundwork services with precision, reliability, and excellence.
             </p>
