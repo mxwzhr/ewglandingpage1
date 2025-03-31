@@ -15,7 +15,7 @@ const ServicesSection = () => {
     },
     {
       title: "Land Clearing",
-      description: "Comprehensive land clearing services, including tree and stump removal.",
+      description: "Comprehensive land clearing services for construction and development projects.",
       image: "https://images.unsplash.com/photo-1469474968028-56623f02e42e"
     },
     {
