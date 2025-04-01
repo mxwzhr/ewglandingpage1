@@ -40,9 +40,7 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4 border-b border-emmell-orange pb-2">Contact Us</h3>
             <ul className="space-y-2">
-              <li className="text-gray-300">
-                123 Construction Way,<br />Anytown, US 12345
-              </li>
+              
               <li>
                 <a href="tel:5551234567" className="text-gray-300 hover:text-emmell-orange transition-colors">
                   (555) 123-4567
