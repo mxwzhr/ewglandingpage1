@@ -10,7 +10,7 @@ const ServicesSection = () => {
     },
     {
       title: "Driveway Repair",
-      description: "Expert restoration and maintenance of residential and commercial driveways.",
+      description: "Expert restoration and maintenance of residential, non-asphalt driveways.",
       image: "https://roadrunnerblade.com/wp-content/uploads/2021/06/skid-steer-grader-in-use-1080x500.jpg"
     },
     {
