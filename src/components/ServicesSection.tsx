@@ -6,7 +6,7 @@ const ServicesSection = () => {
     {
       title: "General Excavation",
       description: "Professional excavation services for foundations, basements, pools, and other structures.",
-      image: "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb"
+      image: "https://wlandscaping.com/wp-content/uploads/2024/01/excavating-fiberglass-swimming-pools-for-landscaping.jpg"
     },
     {
       title: "Driveway Repair",
