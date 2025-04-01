@@ -5,7 +5,7 @@ const ServicesSection = () => {
   const services = [
     {
       title: "General Excavation",
-      description: "Professional general excavation services for foundations, basements, pools, and other structures.",
+      description: "Professional general excavation services.",
       image: "https://wlandscaping.com/wp-content/uploads/2024/01/excavating-fiberglass-swimming-pools-for-landscaping.jpg"
     },
     {
