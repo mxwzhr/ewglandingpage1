@@ -21,7 +21,7 @@ const ServicesSection = () => {
     {
       title: "Site Leveling",
       description: "Precise grading and leveling services to prepare your site for construction or landscaping.",
-      image: "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86"
+      image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1UETIlw6Sag%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=5707d1cfe9069a173b467ea0f4b7631eb4f6ce4acf93d4378bfe66af12d3de66&ipo=images"
     }
   ];
 
