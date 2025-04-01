@@ -1,4 +1,3 @@
-
 import React from "react";
 
 const ServicesSection = () => {
@@ -6,7 +5,7 @@ const ServicesSection = () => {
     {
       title: "General Excavation",
       description: "Professional excavation services for foundations, basements, pools, and other structures.",
-      image: "https://wlandscaping.com/wp-content/uploads/2024/01/excavating-fiberglass-swimming-pools-for-landscaping.jpg"
+      image: "https://i.pinimg.com/originals/03/c5/30/03c53003014b8bb5297beb82e0b1b092.jpg"
     },
     {
       title: "Driveway Repair",
