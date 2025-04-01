@@ -16,7 +16,7 @@ const ServicesSection = () => {
     {
       title: "Land Maintenance",
       description: "Comprehensive land maintenance such as brush clearing and drainage.",
-      image: "https://www.rentalstops.com/itemimages/33386-2.jpg"
+      image: "https://i.pinimg.com/originals/03/c5/30/03c53003014b8bb5297beb82e0b1b092.jpg"
     },
     {
       title: "Site Leveling",
