@@ -1,19 +1,12 @@
 import React from "react";
-
 const Footer = () => {
   const currentYear = new Date().getFullYear();
-
-  return (
-    <footer className="bg-emmell-navy text-white py-12 px-6">
+  return <footer className="bg-emmell-navy text-white py-12 px-6">
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <div className="bg-white p-2 inline-block rounded">
-              <img 
-                src="/lovable-uploads/12759a3e-6c88-4260-a4a4-59bcbfcaad8b.png" 
-                alt="Emmell Ground Worx Logo" 
-                className="h-16" 
-              />
+              <img src="/lovable-uploads/12759a3e-6c88-4260-a4a4-59bcbfcaad8b.png" alt="Emmell Ground Worx Logo" className="h-16" />
             </div>
             <p className="text-gray-300 mt-4 max-w-xs">
               Professional excavation and groundwork services with precision, reliability, and excellence.
@@ -34,9 +27,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="#projects" className="text-gray-300 hover:text-emmell-orange transition-colors">
-                  Projects
-                </a>
+                
               </li>
               <li>
                 <a href="#contact" className="text-gray-300 hover:text-emmell-orange transition-colors">
@@ -49,9 +40,7 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4 border-b border-emmell-orange pb-2">Contact Us</h3>
             <ul className="space-y-2">
-              <li className="text-gray-300">
-                123 Construction Way,<br />Anytown, US 12345
-              </li>
+              
               <li>
                 <a href="tel:5551234567" className="text-gray-300 hover:text-emmell-orange transition-colors">
                   (555) 123-4567
@@ -80,8 +69,6 @@ const Footer = () => {
           </div>
         </div>
       </div>
-    </footer>
-  );
+    </footer>;
 };
-
 export default Footer;
