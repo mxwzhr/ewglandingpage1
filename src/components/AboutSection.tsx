@@ -25,7 +25,7 @@ const AboutSection = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div>
-            <img src="https://images.unsplash.com/photo-1433086966358-54859d0ed716" alt="Excavation work" className="rounded-lg shadow-lg w-full h-auto" />
+            <img alt="Excavation work" className="rounded-lg shadow-lg w-full h-auto" src="/lovable-uploads/1b8c5fa3-09e6-401c-a8e4-9352198fbcc7.png" />
           </div>
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold text-emmell-navy">
