@@ -14,7 +14,7 @@ const ServicesSection = () => {
       image: "https://roadrunnerblade.com/wp-content/uploads/2021/06/skid-steer-grader-in-use-1080x500.jpg"
     },
     {
-      title: "Land Clearing",
+      title: "Land Maintenance",
       description: "Comprehensive land clearing services for construction and development projects.",
       image: "https://www.rentalstops.com/itemimages/33386-2.jpg"
     },
