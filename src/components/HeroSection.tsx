@@ -20,7 +20,7 @@ const HeroSection = () => {
             </div>
           </div>
           <div className="relative h-80 md:h-auto">
-            <img src="https://images.unsplash.com/photo-1482938289607-e9573fc25ebb" alt="Excavator at work" className="rounded-lg shadow-lg object-cover w-full h-full" />
+            <img alt="Excavator at work" className="rounded-lg shadow-lg object-cover w-full h-full" src="https://img.equipmentworld.com/files/base/randallreilly/all/image/2016/10/eqw.Bobcat-M2-Series-T595.png?auto=format%2Ccompress&fit=max&q=70&w=1200" />
             
           </div>
         </div>
