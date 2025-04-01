@@ -87,23 +87,7 @@ const ContactSection = () => {
               
             </div>
 
-            <div className="bg-white p-8 rounded-lg shadow-md">
-              <h3 className="text-2xl font-semibold text-emmell-navy mb-4">Business Hours</h3>
-              <div className="space-y-3">
-                <div className="flex justify-between">
-                  <span className="text-gray-600">Monday - Friday</span>
-                  <span className="font-medium text-emmell-navy">7:00 AM - 5:00 PM</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-gray-600">Saturday</span>
-                  <span className="font-medium text-emmell-navy">8:00 AM - 2:00 PM</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-gray-600">Sunday</span>
-                  <span className="font-medium text-emmell-navy">Closed</span>
-                </div>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
