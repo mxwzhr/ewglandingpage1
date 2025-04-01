@@ -1,8 +1,11 @@
+
 import React, { useState } from "react";
-import { Menu, X } from "lucide-react";
+import { Menu, X, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
+
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+
   return <nav className="bg-white py-4 px-6 md:px-10 fixed w-full shadow-sm z-50">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center">
@@ -18,6 +21,11 @@ const Navbar = () => {
           </a>
           <a href="#services" className="text-emmell-navy hover:text-emmell-orange font-medium transition-colors">
             Services
+          </a>
+          
+          <a href="tel:8584716511" className="flex items-center text-emmell-navy hover:text-emmell-orange font-medium transition-colors">
+            <Phone size={18} className="mr-2" />
+            (858) 471-6511
           </a>
           
           <Button asChild className="bg-emmell-orange hover:bg-emmell-orange/90 text-white">
@@ -45,6 +53,10 @@ const Navbar = () => {
             <a href="#projects" className="text-emmell-navy hover:text-emmell-orange font-medium py-2 transition-colors" onClick={() => setIsMenuOpen(false)}>
               Projects
             </a>
+            <a href="tel:8584716511" className="flex items-center text-emmell-navy hover:text-emmell-orange font-medium py-2 transition-colors" onClick={() => setIsMenuOpen(false)}>
+              <Phone size={18} className="mr-2" />
+              (858) 471-6511
+            </a>
             <Button asChild className="bg-emmell-orange hover:bg-emmell-orange/90 text-white w-full" onClick={() => setIsMenuOpen(false)}>
               <a href="#contact">Contact Us</a>
             </Button>
@@ -52,4 +64,5 @@ const Navbar = () => {
         </div>}
     </nav>;
 };
+
 export default Navbar;
