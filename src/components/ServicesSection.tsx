@@ -15,7 +15,7 @@ const ServicesSection = () => {
     },
     {
       title: "Land Maintenance",
-      description: "Comprehensive land clearing services for construction and development projects.",
+      description: "Comprehensive land maintenance such as brush clearing and drainage.",
       image: "https://www.rentalstops.com/itemimages/33386-2.jpg"
     },
     {
