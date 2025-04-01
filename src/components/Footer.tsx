@@ -1,3 +1,4 @@
+
 import React from "react";
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -40,10 +41,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4 border-b border-emmell-orange pb-2">Contact Us</h3>
             <ul className="space-y-2">
-              
               <li>
-                <a href="tel:5551234567" className="text-gray-300 hover:text-emmell-orange transition-colors">
-                  (555) 123-4567
+                <a href="tel:8584716511" className="text-gray-300 hover:text-emmell-orange transition-colors flex items-center">
+                  <span className="font-medium">(858) 471-6511</span>
                 </a>
               </li>
               <li>
