@@ -42,8 +42,8 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4 border-b border-emmell-orange pb-2">Contact Us</h3>
             <ul className="space-y-2">
               <li>
-                <a href="tel:8584716511" className="text-gray-300 hover:text-emmell-orange transition-colors flex items-center">
-                  <span className="font-medium">(858) 471-6511</span>
+                <a href="tel:8284716511" className="text-gray-300 hover:text-emmell-orange transition-colors flex items-center">
+                  <span className="font-medium">(828) 471-6511</span>
                 </a>
               </li>
               <li>

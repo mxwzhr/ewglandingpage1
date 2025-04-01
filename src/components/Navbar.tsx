@@ -23,9 +23,9 @@ const Navbar = () => {
             Services
           </a>
           
-          <a href="tel:8584716511" className="flex items-center text-emmell-navy hover:text-emmell-orange font-medium transition-colors">
+          <a href="tel:8284716511" className="flex items-center text-emmell-navy hover:text-emmell-orange font-medium transition-colors">
             <Phone size={18} className="mr-2" />
-            (858) 471-6511
+            (828) 471-6511
           </a>
           
           <Button asChild className="bg-emmell-orange hover:bg-emmell-orange/90 text-white">
@@ -53,9 +53,9 @@ const Navbar = () => {
             <a href="#projects" className="text-emmell-navy hover:text-emmell-orange font-medium py-2 transition-colors" onClick={() => setIsMenuOpen(false)}>
               Projects
             </a>
-            <a href="tel:8584716511" className="flex items-center text-emmell-navy hover:text-emmell-orange font-medium py-2 transition-colors" onClick={() => setIsMenuOpen(false)}>
+            <a href="tel:8284716511" className="flex items-center text-emmell-navy hover:text-emmell-orange font-medium py-2 transition-colors" onClick={() => setIsMenuOpen(false)}>
               <Phone size={18} className="mr-2" />
-              (858) 471-6511
+              (828) 471-6511
             </a>
             <Button asChild className="bg-emmell-orange hover:bg-emmell-orange/90 text-white w-full" onClick={() => setIsMenuOpen(false)}>
               <a href="#contact">Contact Us</a>

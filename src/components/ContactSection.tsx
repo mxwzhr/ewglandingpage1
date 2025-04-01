@@ -1,3 +1,4 @@
+
 import React from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -72,7 +73,7 @@ const ContactSection = () => {
                 <Phone className="text-emmell-orange h-5 w-5 mt-1" />
                 <div>
                   <p className="font-medium text-emmell-navy">Phone</p>
-                  <p className="text-gray-600">(858) 471-6511</p>
+                  <p className="text-gray-600">(828) 471-6511</p>
                 </div>
               </div>
               
