@@ -19,7 +19,7 @@ const ContactSection = () => {
           </h2>
           <div className="w-24 h-1 bg-emmell-orange mx-auto mb-6"></div>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Ready to start your project? Contact us today for a free consultation and quote.
+            Ready to start your project? Contact Emmell Ground Worx, LLC today for a free consultation and quote.
           </p>
         </div>
 

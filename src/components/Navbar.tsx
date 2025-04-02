@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="flex items-center">
           <a href="#" className="flex items-center">
-            <img src="/lovable-uploads/12759a3e-6c88-4260-a4a4-59bcbfcaad8b.png" alt="Emmell Ground Worx Logo" className="h-16" />
+            <img src="/lovable-uploads/12759a3e-6c88-4260-a4a4-59bcbfcaad8b.png" alt="Emmell Ground Worx, LLC Logo" className="h-16" />
           </a>
         </div>
 
